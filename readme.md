@@ -39,7 +39,7 @@ This is a full stack eCommerce web application built using the **MERN stack** (M
 
 Create a `.env` file in your backend directory and include:
 
-```env
+#env
 PORT= your_designated_port
 MONGO_URL=your_mongodb_connection
 JWT_SECRET=your_jwt_secret
