@@ -52,6 +52,7 @@ ADMIN_EMAIL=your_admin_email
 ADMIN_PASSWORD=your_admin_password
 
 🧪 Running the Project Locally follow bellow steps
+
 cd backend
 npm install
 
@@ -61,7 +62,7 @@ npm install
 cd ../admin
 npm install
 
-run with command (npm run dev for frontend and admin & npm run server for backend) and open on your given ports
+run with command ('npm run dev' for frontend, admin & 'npm run server' for backend) and open on your given ports
 
 #👤 Author
 Rakshan Kalekar
